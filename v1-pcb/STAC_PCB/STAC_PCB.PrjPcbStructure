@@ -1,3 +1,2 @@
 Record=TopLevelDocument|FileName=STAC_Test_Board_v1.SchDoc|SheetNumber=1
 Record=SheetSymbol|SourceDocument=STAC_Test_Board_v1.SchDoc|Designator=STAC_Power|SchDesignator=STAC_Power|FileName=STAC_Test_Board_v1_Power.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=STAC_Test_Board_v1_Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=NoMainPathDocument|SourceDocument=STAC_Test_Board_v1.SchDoc|FileName=STAC_Test_Board_v1_Digital.SchDoc|SheetNumber=3

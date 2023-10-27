@@ -44,3 +44,9 @@ SRAM test sequences at higher frequencies,
 we can still use the FPGA to read out the BIST checksum via the scan chain.
 This scan chain readout need not be particularly fast.
 
+## Equipment Needed
+
+* Power supply
+* Square wave function generator for clock
+* Multiphase clock generator
+* Arty A7-100T

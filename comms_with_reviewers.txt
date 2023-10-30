@@ -1,0 +1,51 @@
+Hi Felicia, 
+
+Thanks for agreeing to check my files/repo for my upcoming TestpPlan/Schematic  review.  I included a list of files with this email:
+1. Test Plan doc - goal and design intent
+2. Schematic PDF of the altium schematics
+3. Board Physical Plan doc -  board physical constraints (stackup, SMAs, etc)
+4. Bill of Materials
+5. Gantt chart for project management
+
+The native files are also pushed to the pcb repo: https://bwrcrepo.eecs.berkeley.edu/pcb/stac-pcb
+
+Best,
+    Rahul
+
+-------------------------------------------------------
+
+Hi Bozhi, Yahia, Felicia,
+
+Thank you for agreeing to be reviewers for my PCB TestPlan/Schematic review.  Felicia Guo in my group has done a first-pass check to confirm that the documentation set is in order.  
+I've scheduled our review for Tuesday at 3pm.
+
+The schematic documents for review are attached. They can also be found at:
+https://bwrcrepo.eecs.berkeley.edu/pcb/stac-pcb/-/tree/main/v1-pcb
+
+You are all invited to attend my PCB schematic review for STAC, the SRAM Timing Analysis Chip. The review is scheduled for Monday, 10/30/2023, at 2:30pm.
+
+ STAC is a fully digital Skywater 130nm chip designed for testing custom SRAM macros Rohan and I designed.
+
+The following documents can be found here:
+1. Test Plan doc - goal and design intent
+2. Schematic PDF of the altium schematics
+3. Board Physical Plan doc -  board physical constraints (stackup, SMAs, etc)
+4. Bill of Materials
+5. Gantt chart for project management
+
+1.  231027_test_plan.md
+2.  231027_schematics.pdf
+3.  231027_Board_Physical_Plan_stac_pcb.pptx
+4.  231027_bom.pdf
+5.  231027_gantt.pdf
+
+Copies are also attached to this email. Felicia has briefly checked over these.
+
+If you can't make it, please let me know. I think we have a good number of reviewers, but if more than a few people need a different time, we can reschedule.
+
+Thanks!
+
+Best,
+Rahul
+
+

@@ -1,0 +1,22 @@
+ft2232hl changes
+- ensure "ft2232h" is changed to "ft2232hl"
+- swap bdbus0 and bdbus1
+- jtag srst should be adbus6
+- move JTAG LED to ACBUS2
+- add choke, 100nF cap to vpll, vphy
+- pll is probably 48MHz
+
+fix VDDIO_3V3 vs VDDIO3V3
+add eeprom
+
+be able to power board off of usb via shunt jumper
+- change first stage LDO to 5V
+- USB power bypasses first LDO
+- 3 pin jumper (connect 5V to either LDO output or USB VBUS)
+- add fuse to usb vbus
+
+4 pin test point on vbus
+
+be able to set spi mux hi z (enb = 1) and add 2x4 header
+
+double check all 50 ohm traces have SE50 net class

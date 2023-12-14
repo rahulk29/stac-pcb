@@ -1,6 +1,6 @@
 We received two quotes from Sierra:
-Q1594905-1.doc, which is for 5 day turnaround with blue soldermask.
-Q1594905-2.doc, which is for 10 day turnaround with green soldermask.
+* Q1594905-1.doc, which is for 5 day turnaround with blue soldermask.
+* Q1594905-2.doc, which is for 10 day turnaround with green soldermask.
 
 Switching to green + 10 days saves over $1,000.
 

@@ -189,7 +189,223 @@ GenerateClassCluster=0
 DocumentUniqueId=JKALBBFL
 
 [GeneratedDocument1]
+DocumentPath=Project Outputs for STAC_PCB\ODB\odb\steps\pcb\layers\comp_+_bot\components
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for STAC_PCB\ODB\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for STAC_PCB\ODB\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument4]
 DocumentPath=Project Outputs for STAC_PCB\Design Rule Check - STAC-v1-pcb.html
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for STAC_PCB\Test Points\Fabrication Testpoint Report for STAC-v1-pcb.ipc
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for STAC_PCB\ODB\odb\steps\pcb\layers\bottom_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for STAC_PCB\ODB\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for STAC_PCB\ODB\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for STAC_PCB\ODB\odb\steps\pcb\layers\comp_+_bot\features
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for STAC_PCB\ODB\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for STAC_PCB\ODB\odb\steps\pcb\layers\dielectric_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for STAC_PCB\ODB\odb\steps\pcb\layers\dielectric_2\features
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for STAC_PCB\ODB\odb\steps\pcb\layers\dielectric_3\features
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for STAC_PCB\ODB\odb\steps\pcb\layers\dielectric_4\features
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for STAC_PCB\ODB\odb\steps\pcb\layers\dielectric_5\features
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for STAC_PCB\ODB\odb\steps\pcb\layers\drill_non-plated_l6_bot-l1_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for STAC_PCB\ODB\odb\steps\pcb\layers\drill_plated_l6_bot-l1_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for STAC_PCB\ODB\odb\steps\pcb\layers\l1_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for STAC_PCB\ODB\odb\steps\pcb\layers\l2_gnd\features
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for STAC_PCB\ODB\odb\steps\pcb\layers\l3_vdd_sig\features
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for STAC_PCB\ODB\odb\steps\pcb\layers\l4_gnd\features
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for STAC_PCB\ODB\odb\steps\pcb\layers\l5_gnd\features
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for STAC_PCB\ODB\odb\steps\pcb\layers\l6_bot\features
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for STAC_PCB\ODB\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for STAC_PCB\ODB\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for STAC_PCB\ODB\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for STAC_PCB\ODB\odb\symbols\uds_rect1234.44x480.06_270_offset2.54x0\features
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for STAC_PCB\ODB\odb\symbols\uds_rect1600.2x1000.252_270_offset0.254x0\features
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for STAC_PCB\ODB\odb\symbols\uds_rect2470.15x1116.076_90_offset0.254x0\features
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for STAC_PCB\ODB\odb\symbols\uds_rect3200.146x850.138_90_offset0.254x0\features
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for STAC_PCB\ODB\odb\symbols\uds_rect3200.146x850.138_180_offset0.254x0\features
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for STAC_PCB\ODB\odb\symbols\uds_rect3200.146x850.138_270_offset0.254x0\features
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for STAC_PCB\ODB\odb\symbols\uds_rect8820.15x7720.076_90_offset0.254x0\features
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for STAC_PCB\ODB\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for STAC_PCB\ODB\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for STAC_PCB\ODB\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for STAC_PCB\Gerber\STAC-v1-pcb.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs for STAC_PCB\Gerber\STAC-v1-pcb.G1
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs for STAC_PCB\Gerber\STAC-v1-pcb.G2
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Project Outputs for STAC_PCB\Gerber\STAC-v1-pcb.G3
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Project Outputs for STAC_PCB\Gerber\STAC-v1-pcb.G4
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Project Outputs for STAC_PCB\Gerber\STAC-v1-pcb.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Project Outputs for STAC_PCB\Gerber\STAC-v1-pcb.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Project Outputs for STAC_PCB\Gerber\STAC-v1-pcb.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Project Outputs for STAC_PCB\Gerber\STAC-v1-pcb.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Project Outputs for STAC_PCB\Gerber\STAC-v1-pcb.GM
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Project Outputs for STAC_PCB\Gerber\STAC-v1-pcb.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Project Outputs for STAC_PCB\Gerber\STAC-v1-pcb.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Project Outputs for STAC_PCB\Gerber\STAC-v1-pcb.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Project Outputs for STAC_PCB\Gerber\STAC-v1-pcb.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Project Outputs for STAC_PCB\Gerber\STAC-v1-pcb.REP
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Project Outputs for STAC_PCB\ODB\STAC-v1-pcb.REP
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=Project Outputs for STAC_PCB\ODB\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=Project Outputs for STAC_PCB\ODB\odb\steps\pcb\layers\drill_non-plated_l6_bot-l1_top\tools
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=Project Outputs for STAC_PCB\ODB\odb\steps\pcb\layers\drill_plated_l6_bot-l1_top\tools
 DItemRevisionGUID=
 
 [Configuration1]

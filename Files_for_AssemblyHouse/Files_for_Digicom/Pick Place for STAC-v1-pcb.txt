@@ -4,9 +4,9 @@ C:\Users\Rahul Kumar\Documents\work\altium\stac-pcb\v1-pcb\STAC_PCB\Project Outp
 ========================================================================================================================
 File Design Information:
 
-Date:       12/12/23
-Time:       12:25
-Revision:   203b4f5c6e9b1d3f4f32d0859d7d56e792d93319
+Date:       13/12/23
+Time:       23:46
+Revision:   bae84808c6b5bfbf331d31ea416d9b76002ef93a
 Variant:    No variations
 Units used: mil
 
@@ -169,7 +169,7 @@ T10        "5006 (black)"             TopLayer    TP-63/ROUND-THT               
 T11        TEST_PT_4                  TopLayer    TP-04-40/ROUND-THT                  1220.000   2175.000   0        "Test point 4 pads for probing"                                                     
 T12        "5009 (yellow)"            TopLayer    TP-63/ROUND-THT                     1710.000   1370.000   0        "Test point 1 pin"                                                                  
 T13        "5009 (yellow)"            TopLayer    TP-63/ROUND-THT                     1600.000   2345.000   0        "Test point 1 pin"                                                                  
-U1         LT3083EQ#PBF               TopLayer    DDPAK-5                             1725.000   3024.016   180      "3 A Single Resistor LDO 1.2 to 23 V Vin, Adj Vout"                                 
+U1         LT3083EQ#PBF               TopLayer    DDPAK-5L                            1725.000   3024.016   180      "3 A Single Resistor LDO 1.2 to 23 V Vin, Adj Vout"                                 
 U2         BUK9K12-60EX               TopLayer    LCCT-08-1.27-5.3X6.2/DUAL-FET       2175.000   3685.000   0        "Dual channel NMOS FETs"                                                            
 U3         LT3042                     TopLayer    GW-10-.5-4.9/THM                    2365.000   2965.000   180      "LT3042 ultralow noise, high PSRR LDO, max current 200mA"                           
 U4         LTC4365                    BottomLayer GW-08-.65-2.9                       2012.205   3729.882   0        "LTC4365 Over/Under Voltage, Reverse Supply Protection Controller"                  

@@ -1,7 +1,7 @@
 C  Project Name : 
 C  Board Name : 
 C  Date : 12/13/2023
-C  Time : 5:12:52 PM
+C  Time : 5:27:38 PM
 C  
 C  --------------- Layer Stackup --------------------
 C  
@@ -16,7 +16,7 @@ C  --------------------------------------------------
 C  
 P  JOB
 P  UNITS CUST
-P  TITLE Qjz7F5E.tmp
+P  TITLE Qjz183.tmp
 P  NUM 1.0
 P  REV A
 P  VER IPC-D-356A
@@ -914,7 +914,7 @@ P  NNAME9     serial_tl_bits_in_bits
 317GND              VIA   -     D0080PA00X 023950Y 022000X0000          S3
 317GND              VIA   -     D0080PA00X 019020Y 026690X0000          S3
 317GND              VIA   -     D0080PA00X 019500Y 026600X0000          S3
-327GND              NT1   -2         PA01X 040850Y 035900X0000          S1
+327GND              NT1   -2         PA01X 040850Y 035900X0000          S3
 317GND              VIA   -     D0080PA00X 016660Y 031800X0000          S3
 317GND              VIA   -     D0080PA00X 018280Y 031830X0000          S3
 317GND              VIA   -     D0080PA00X 017720Y 031820X0000          S3
@@ -1080,9 +1080,9 @@ P  NNAME9     serial_tl_bits_in_bits
 327RXLED            U7    -54        UA01X 017558Y 016056X0551Y0106R090 S0
 327RXLED            D5    -1         PA01X 014850Y 012000X0374Y0217R000 S0
 317SENSE_N_GND      J7    -3    D0400PA00X 040200Y 037600X0000          S0
-327SENSE_N_GND      NT1   -1         PA01X 040850Y 036100X0000          S1
+327SENSE_N_GND      NT1   -1         PA01X 040850Y 036100X0000          S3
 3178                J7    -2    D0400PA00X 041200Y 037600X0000          S0
-3278                NT2   -1         PA01X 041200Y 037100X0000          S1
+3278                NT2   -1         PA01X 041200Y 037100X0000          S3
 3279                U6    -14        UA01X 042253Y 031967X0285Y0118R000 S0
 3179                J4    -4    D0400PA00X 026850Y 012750X0000          S0
 3179                VIA   -     D0080PA00X 030940Y 013120X0000          S3
@@ -1427,7 +1427,7 @@ P  NNAME9     serial_tl_bits_in_bits
 317VDDD1V8          VIA   -     D0080PA00X 042700Y 035350X0000          S3
 317VDDD1V8          VIA   -     D0080PA00X 042250Y 028750X0000          S3
 317VDDD1V8          VIA   -     D0080PA00X 014100Y 032250X0000          S3
-327VDDD1V8          NT2   -2         PA01X 041200Y 036900X0000          S1
+327VDDD1V8          NT2   -2         PA01X 041200Y 036900X0000          S3
 327VDDD1V8_LED      D4    -2         PA01X 016650Y 043096X0374Y0217R180 S0
 327VDDD1V8_LED      R15   -2         PA06X 016500Y 043087X0354Y0217R000 S0
 317VDDD1V8_LED      VIA   -     D0080PA00X 016650Y 043400X0000          S3

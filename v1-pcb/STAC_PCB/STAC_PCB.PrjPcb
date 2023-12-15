@@ -329,82 +329,86 @@ DocumentPath=Project Outputs for STAC_PCB\ODB\odb\steps\pcb\netlists\cadnet\netl
 DItemRevisionGUID=
 
 [GeneratedDocument36]
-DocumentPath=Project Outputs for STAC_PCB\ODB\odb\steps\pcb\profile
+DocumentPath=Project Outputs for STAC_PCB\Pick Place\Pick Place for STAC-v1-pcb.txt
 DItemRevisionGUID=
 
 [GeneratedDocument37]
-DocumentPath=Project Outputs for STAC_PCB\Gerber\STAC-v1-pcb.EXTREP
+DocumentPath=Project Outputs for STAC_PCB\ODB\odb\steps\pcb\profile
 DItemRevisionGUID=
 
 [GeneratedDocument38]
-DocumentPath=Project Outputs for STAC_PCB\Gerber\STAC-v1-pcb.G1
+DocumentPath=Project Outputs for STAC_PCB\Gerber\STAC-v1-pcb.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument39]
-DocumentPath=Project Outputs for STAC_PCB\Gerber\STAC-v1-pcb.G2
+DocumentPath=Project Outputs for STAC_PCB\Gerber\STAC-v1-pcb.G1
 DItemRevisionGUID=
 
 [GeneratedDocument40]
-DocumentPath=Project Outputs for STAC_PCB\Gerber\STAC-v1-pcb.G3
+DocumentPath=Project Outputs for STAC_PCB\Gerber\STAC-v1-pcb.G2
 DItemRevisionGUID=
 
 [GeneratedDocument41]
-DocumentPath=Project Outputs for STAC_PCB\Gerber\STAC-v1-pcb.G4
+DocumentPath=Project Outputs for STAC_PCB\Gerber\STAC-v1-pcb.G3
 DItemRevisionGUID=
 
 [GeneratedDocument42]
-DocumentPath=Project Outputs for STAC_PCB\Gerber\STAC-v1-pcb.GBL
+DocumentPath=Project Outputs for STAC_PCB\Gerber\STAC-v1-pcb.G4
 DItemRevisionGUID=
 
 [GeneratedDocument43]
-DocumentPath=Project Outputs for STAC_PCB\Gerber\STAC-v1-pcb.GBO
+DocumentPath=Project Outputs for STAC_PCB\Gerber\STAC-v1-pcb.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument44]
-DocumentPath=Project Outputs for STAC_PCB\Gerber\STAC-v1-pcb.GBP
+DocumentPath=Project Outputs for STAC_PCB\Gerber\STAC-v1-pcb.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument45]
-DocumentPath=Project Outputs for STAC_PCB\Gerber\STAC-v1-pcb.GBS
+DocumentPath=Project Outputs for STAC_PCB\Gerber\STAC-v1-pcb.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument46]
-DocumentPath=Project Outputs for STAC_PCB\Gerber\STAC-v1-pcb.GM
+DocumentPath=Project Outputs for STAC_PCB\Gerber\STAC-v1-pcb.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument47]
-DocumentPath=Project Outputs for STAC_PCB\Gerber\STAC-v1-pcb.GTL
+DocumentPath=Project Outputs for STAC_PCB\Gerber\STAC-v1-pcb.GM
 DItemRevisionGUID=
 
 [GeneratedDocument48]
-DocumentPath=Project Outputs for STAC_PCB\Gerber\STAC-v1-pcb.GTO
+DocumentPath=Project Outputs for STAC_PCB\Gerber\STAC-v1-pcb.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument49]
-DocumentPath=Project Outputs for STAC_PCB\Gerber\STAC-v1-pcb.GTP
+DocumentPath=Project Outputs for STAC_PCB\Gerber\STAC-v1-pcb.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument50]
-DocumentPath=Project Outputs for STAC_PCB\Gerber\STAC-v1-pcb.GTS
+DocumentPath=Project Outputs for STAC_PCB\Gerber\STAC-v1-pcb.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument51]
-DocumentPath=Project Outputs for STAC_PCB\Gerber\STAC-v1-pcb.REP
+DocumentPath=Project Outputs for STAC_PCB\Gerber\STAC-v1-pcb.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument52]
-DocumentPath=Project Outputs for STAC_PCB\ODB\STAC-v1-pcb.REP
+DocumentPath=Project Outputs for STAC_PCB\Gerber\STAC-v1-pcb.REP
 DItemRevisionGUID=
 
 [GeneratedDocument53]
-DocumentPath=Project Outputs for STAC_PCB\ODB\odb\steps\pcb\stephdr
+DocumentPath=Project Outputs for STAC_PCB\ODB\STAC-v1-pcb.REP
 DItemRevisionGUID=
 
 [GeneratedDocument54]
-DocumentPath=Project Outputs for STAC_PCB\ODB\odb\steps\pcb\layers\drill_non-plated_l6_bot-l1_top\tools
+DocumentPath=Project Outputs for STAC_PCB\ODB\odb\steps\pcb\stephdr
 DItemRevisionGUID=
 
 [GeneratedDocument55]
+DocumentPath=Project Outputs for STAC_PCB\ODB\odb\steps\pcb\layers\drill_non-plated_l6_bot-l1_top\tools
+DItemRevisionGUID=
+
+[GeneratedDocument56]
 DocumentPath=Project Outputs for STAC_PCB\ODB\odb\steps\pcb\layers\drill_plated_l6_bot-l1_top\tools
 DItemRevisionGUID=
 

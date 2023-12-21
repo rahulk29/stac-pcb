@@ -188,6 +188,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JKALBBFL
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for STAC_PCB\Design Rule Check - STAC-v1-pcb.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0

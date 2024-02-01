@@ -8,8 +8,6 @@ along with circuitry for measuring SRAM correctness and access time.
 
 Also see the [STAC test plan](https://github.com/ucb-bar/stac-top/blob/stac-master/docs/test_plan.md).
 
-This board is still a work-in-progress; it is not yet complete.
-
 ## Contributing
 
 Contributions can be submitted by opening a pull request against the `main` branch
